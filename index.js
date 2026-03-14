@@ -23,7 +23,7 @@ const msgRetryCounterCache = new NodeCache();
 const { makeInMemoryStore } = require('./lib/store');
 const db = require('./lib/databaseManager');
 
-const pairingCode = true;
+const pairingCode = false;
 
 const DataBase = require('./lib/kayiza');
 const database = new DataBase();
