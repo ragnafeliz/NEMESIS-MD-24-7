@@ -1,11 +1,11 @@
 const fs = require('fs');
 const chalk = require('chalk');
 const { version } = require("./package.json")
-global.owner = process.env.OWNER_NUMBER || '5527992767756'
+global.owner = '237678687593'
 global.versi = version
-global.namaOwner = process.env.OWNER_NAME || "Seu Nome"
+global.namaOwner = "Kᴇᴠɪɴ ᴛᴇᴄʜ x Rɪᴅᴢ Cᴏᴅᴇʀ"
 global.packname = 'ɴᴇᴍᴇsɪs ᴍᴅ'
-global.botname = process.env.BOT_NAME || 'NEMESIS MD'
+global.botname = 'ɴᴇᴍᴇsɪs ᴍᴅ'
 global.botname2 = 'ɴᴇᴍᴇsɪs ᴍᴅ'
 global.tempatDB = 'database.json' 
 global.linkOwner = "https://wa.me/237678687593"

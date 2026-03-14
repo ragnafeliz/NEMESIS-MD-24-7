@@ -1,0 +1,12 @@
+{
+  "users": {},
+  "groups": {},
+  "database": {},
+  "settings": {
+    "autoread": false,
+    "autotyping": false,
+    "autopromosi": false,
+    "autorecord": true
+  },
+  "sholatSent": {}
+}
