@@ -79,7 +79,7 @@ async function startingBot() {
       
     const clutch = makeWASocket({
     logger: pino({ level: "silent" }),
-    printQRInTerminal: !pairingCode,
+    printQRInTerminal: !pairingCode, qr: { small: true },
     auth: state,
     version: waVersion,
     browser: ["Ubuntu", "Chrome", "120.0.0.0"],
